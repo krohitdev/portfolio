@@ -180,6 +180,10 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .social a:hover {
+  transform: rotate(360deg);
+}
+
+.header .profile-content .social a:hover {
   background: #778492;
 }
 
