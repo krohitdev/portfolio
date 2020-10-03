@@ -23,6 +23,8 @@ jQuery(document).ready(function ($) {
     /* Bootstrap Tooltip for Skillset */
     $('.level-label').tooltip();
 
+    
+
     /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
     new GitHubCalendar("#github-graph", "krohitdev");
 
